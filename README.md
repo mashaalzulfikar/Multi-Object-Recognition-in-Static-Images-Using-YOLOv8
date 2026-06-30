@@ -1,4 +1,5 @@
 # Multi-Object Recognition in Static Images Using YOLOv8
+<img width="1733" height="908" alt="image" src="https://github.com/user-attachments/assets/7a371128-b128-460e-aca3-c539ada24fc4" />
 
 ## Introduction
 This project implements a multi-object recognition system using the YOLOv8 (You Only Look Once) architecture. Object detection is a critical component of computer vision, enabling the identification and localization of objects within images for applications such as surveillance, autonomous driving, and image retrieval. This project provides a step-by-step implementation for detecting multiple objects in static images with high speed and accuracy.
