@@ -1,0 +1,1 @@
+# Multi-Object-Recognition-in-Static-Images-Using-YOLOv8
